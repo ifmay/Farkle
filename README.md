@@ -1,6 +1,6 @@
-# Farkle CPSC 224 Individual Project - HW4 GUI
+# Farkle 
 
-Individual Farkle GUI assignment repository for CPSC 224 course
-
-- Student:  Izzy May
-- Semester: Spring 2024
+Project Information:
+Completed as project for CPSC 224: Software Engineering
+Student: Isabelle May
+Semester: Spring 2024
